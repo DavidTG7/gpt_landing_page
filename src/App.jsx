@@ -9,6 +9,8 @@ import {
 } from "./containers";
 import { CTA, Brand, Navbar } from "./components";
 
+import "./App.css";
+
 export const App = () => {
   return (
     <div className="App">
