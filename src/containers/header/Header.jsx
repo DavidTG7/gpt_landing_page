@@ -12,10 +12,12 @@ export const Header = () => {
           Let’s Build Something amazing with GPT-3 OpenAI
         </h1>
         <p>
-          Yet bed any for travelling assistance indulgence unpleasing. Not
-          thoughts all exercise blessing. Indulgence way everything joy
-          alteration boisterous the attachment. Party we years to order allow
-          asked of.
+          GPT-3 is a powerful language processing model by OpenAI, with 175
+          billion parameters, capable of generating natural and coherent text in
+          multiple languages. It's used for automated responses, creating
+          automated content and automating natural language processing tasks.
+          It's pre-trained and has great potential in the field of natural
+          language processing.
         </p>
         <div className="gpt3__header-content__input">
           <input type="email" placeholder="Your Email Address" />
