@@ -88,9 +88,12 @@
   .gpt3__whatgpt3-container .gpt3__features-container__feature {
     flex-direction: column;
   }
+  .gpt3__features-container__feature {
+    width: fit-content;
+  }
 }
 
-@media screen and (max-width: 650px) {
+@media screen and (max-width: 775px) {
   /* Customizing feature component as per needs */
   .gpt3__whatgpt3-feature .gpt3__features-container__feature,
   .gpt3__whatgpt3-container .gpt3__features-container__feature {

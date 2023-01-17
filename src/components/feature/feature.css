@@ -1,5 +1,5 @@
 .gpt3__features-container__feature {
-  /* width: 100%; */
+  width: 100%;
   display: flex;
   justify-content: space-between;
   align-items: flex-start;
@@ -17,7 +17,7 @@
 .gpt3__features-container__feature-title h1 {
   font-family: var(--font-family);
   font-weight: 800;
-  font-size: 24px;
+  font-size: 20px;
   letter-spacing: -0.04em;
   color: #fff;
 }
