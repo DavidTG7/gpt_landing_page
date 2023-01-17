@@ -9,7 +9,13 @@ export const WhatGPT3 = () => {
       <div className="gpt3__whatgpt3-feature">
         <Feature
           title="What is GPT-3"
-          text="We so opinion friends me message as delight. Whole front do of plate heard oh ought. His defective nor convinced residence own. Connection has put impossible own apartments boisterous. At jointure ladyship an insisted so humanity he. Friendly bachelor entrance to on by."
+          text="GPT-3 is
+          a powerful language processing model by OpenAI, with 175 billion
+          parameters, capable of generating natural and coherent text in
+          multiple languages. It's used for automated responses, creating
+          automated content and automating natural language processing tasks.
+          It's pre-trained and has great potential in the field of natural
+          language processing."
         />
       </div>
       <div className="gpt3__whatgpt3-heading">
@@ -21,15 +27,15 @@ export const WhatGPT3 = () => {
       <div className="gpt3__whatgpt3-container">
         <Feature
           title="Chatbots"
-          text="We so opinion friends me message as delight. Whole front do of plate heard oh ought."
+          text="Chatbots built with GPT-3 OpenAI are the future of customer service. They understand human language with unprecedented accuracy and provide personalized assistance."
         />
         <Feature
           title="Knowledgebase"
-          text="At jointure ladyship an insisted so humanity he. Friendly bachelor entrance to on by. As put impossible own apartments b"
+          text="Powerful, accurate, and efficient knowledgebase built using GPT-3 technology. Quickly find answers to any question with ease. User-friendly interface and advanced search capabilities."
         />
         <Feature
           title="Education"
-          text="At jointure ladyship an insisted so humanity he. Friendly bachelor entrance to on by. As put impossible own apartments b"
+          text="Revolutionary education platform powered by GPT-3 technology. Personalized learning, interactive content, and real-time feedback. Advance your skills and knowledge with ease."
         />
       </div>
     </div>

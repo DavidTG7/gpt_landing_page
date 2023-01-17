@@ -12,9 +12,13 @@ export const Header = () => {
           Let’s Build Something amazing with GPT-3 OpenAI
         </h1>
         <p>
-          GPT-3 is a powerful language processing model by OpenAI, with 175
-          billion parameters, capable of generating natural and coherent text in
-          multiple languages. It's used for automated responses, creating
+          With its advanced natural language processing abilities, we can create
+          automated content, assist with language translation, and more. Let's
+          build something amazing and push the boundaries of what is possible in
+          fields such as AI, music, coding, design and so on. Let's put this
+          powerful tool to work and create something truly incredible.
+          
+            It's used for automated responses, creating
           automated content and automating natural language processing tasks.
           It's pre-trained and has great potential in the field of natural
           language processing.
